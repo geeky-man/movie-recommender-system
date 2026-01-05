@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # TMDB API key from Streamlit Secrets
-API_KEY = st.secrets["TMDB_API_KEY"]
+API_KEY = st.secrets["5134a9b9250f780f7aeaa30b9e52c78a"]
 
 POSTER_BASE_URL = "https://image.tmdb.org/t/p/w500/"
 PLACEHOLDER_POSTER = "https://via.placeholder.com/500x750?text=No+Image"
